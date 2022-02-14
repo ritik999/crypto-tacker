@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Crypro-Price-Tracker/static/css/main.858108d3.css",
+    "main.js": "/Crypro-Price-Tracker/static/js/main.bd0d368a.js",
+    "index.html": "/Crypro-Price-Tracker/index.html",
+    "main.858108d3.css.map": "/Crypro-Price-Tracker/static/css/main.858108d3.css.map",
+    "main.bd0d368a.js.map": "/Crypro-Price-Tracker/static/js/main.bd0d368a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.858108d3.css",
+    "static/js/main.bd0d368a.js"
+  ]
+}
